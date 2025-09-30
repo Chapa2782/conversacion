@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Conversación IA",
+  "description": "Una aplicación donde dos agentes de IA, A y B, mantienen una conversación continua sobre un tema definido por el usuario. La conversación puede iniciarse, pausarse, detenerse y la transcripción puede descargarse para su análisis.",
+  "requestFramePermissions": []
+}
